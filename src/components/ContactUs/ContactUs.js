@@ -9,17 +9,17 @@ const ContactUs = () => {
             <div className='mb-10 mx-12' id='contact'>
                 <h1 className='text-3xl lg:text-5xl md:text-4xl font-bold text-center'>CONTACT US</h1>
                 <div className="my-10">
-                    <div className="grid items-center justify-center grid-cols-1 lg:grid-cols-2 md:grid-cols-2">
+                    <div className="grid items-center justify-center grid-cols-1 lg:grid-cols-2 md:grid-cols-2 gap-6">
                         <div className='lg:order-last md:order-last'>
-                            <h3 className='text-2xl'>Information</h3>
-                            <div className='text-xl my-4'>
-                                <p>Contact for additional information:</p>
-                                <p> <FontAwesomeIcon icon={faEnvelope} className='mr-2' />admin@site.com</p>
+                            <div className='text-xl mb-4'>
+                            <h3 className='text-3xl mb-8'>Information</h3>
+                                <p className='text-2xl'>Contact for additional information:</p>
+                                <p className='my-1'> <FontAwesomeIcon icon={faEnvelope} className='mr-2' />admin@site.com</p>
                                 <p><FontAwesomeIcon icon={faPhone} className='mr-2' />+1 (123) 455 5555</p>
                             </div>
-                            <div>
-                                <p>Location and Time</p>
-                                <p><FontAwesomeIcon icon={faLocationDot} className='mr-2'/>We are located at Pet City, 304.</p>
+                            <div className='text-xl my-10'>
+                            <h3 className='text-3xl mb-8'>Location and Time</h3>
+                                <p className='my-1'><FontAwesomeIcon icon={faLocationDot} className='mr-2'/>We are located at Pet City, 304.</p>
                                 <p><FontAwesomeIcon icon={faClock} className='mr-2'/>Open from 9 a.m to 10 p.m on weekdays and from 9 a.m to 2 p.m in weekends.</p>
                             </div>
                         </div>
