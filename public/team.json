@@ -1,0 +1,74 @@
+[
+    {
+        "_id": 1,
+        "name":"Mickey J. Albert",
+        "title":"Cynologist",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/SBC87X4/01.jpg",
+        "facebook":"https://facebook.com/",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://linkedin.com/",
+        "instagram":"https://instagram.com/"
+    },
+    {
+        "_id": 2,
+        "name":"Faith J. Golden",
+        "title":"Dog Walker",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/7pg039K/02.jpg",
+        "facebook":"https://facebook.com/",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://linkedin.com/",
+        "instagram":"https://instagram.com/"
+    },
+    {
+        "_id": 3,
+        "name":"Darryl M. Fagan",
+        "title":"Cynologist",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/MGh2VDm/03.jpg",
+        "facebook":"https://facebook.com/",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://linkedin.com/",
+        "instagram":"https://instagram.com/"
+    },
+    {
+        "_id": 4,
+        "name":"Kelly P. Richards",
+        "title":"Consultant",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/3TqNmng/04.jpg",
+        "facebook":"https://facebook.com/",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://linkedin.com/",
+        "instagram":"https://instagram.com/"
+    },
+    {
+        "_id": 5,
+        "name":"Kevin B. Rudd",
+        "title":"Dog Trainer",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/XY5JqLg/05.jpg",
+        "facebook":"https://facebook.com/",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://linkedin.com/",
+        "instagram":"https://instagram.com/"
+    },
+    {
+        "_id": 6,
+        "name":"Georgia W. Fields",
+        "title":"Cynologist",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/hHxBsd4/06.jpg",
+        "facebook":"https://facebook.com/",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://linkedin.com/",
+        "instagram":"https://instagram.com/"
+    }
+]
+
+
+
+
+
+

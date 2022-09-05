@@ -1,0 +1,40 @@
+[
+    {
+        "_id":1,
+        "name": "Veterinarian",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/10fmDTT/veterinarian.jpg"
+    },
+    {
+        "_id":2,
+        "name": "Grooming",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/9bhKw5Q/grooming.jpg"
+    },
+    {
+        "_id":3,
+        "name": "Adoption",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/Yp0GDWZ/adoption.jpg"
+    },
+    {
+        "_id":4,
+        "name": "Dog Walker",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/jHkkFj5/dog-walker.jpg"
+    },
+    {
+        "_id":5,
+        "name": "Agility",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/44rYt13/dog-agility.jpg"
+    },
+    {
+        "_id":6,
+        "name": "Security Program",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/300X81z/security-program.jpg"
+    }
+]
+
+

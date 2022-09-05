@@ -1,0 +1,40 @@
+[
+    {
+        "_id":1,
+        "name": "Natural products",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/1zPjCMJ/natural-products.png"
+    },
+    {
+        "_id":2,
+        "name": "Vet care",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/LrxbMQw/vet-care.png"
+    },
+    {
+        "_id":3,
+        "name": "Training",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/jyRQ7D6/dog-training.png"
+    },
+    {
+        "_id":4,
+        "name": "Housing",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/f8fcd2s/housing.png"
+    },
+    {
+        "_id":5,
+        "name": "Adoption",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/k6XWN0k/adoption.png"
+    },
+    {
+        "_id":6,
+        "name": "Quality care",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img":"https://i.ibb.co/8DTpj5Q/qualitycare.png"
+    }
+]
+
+
