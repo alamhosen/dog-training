@@ -19,7 +19,7 @@ const ContactUs = () => {
                             </div>
                             <div className='text-xl my-10'>
                             <h3 className='text-3xl mb-8'>Location and Time</h3>
-                                <p className='my-1'><FontAwesomeIcon icon={faLocationDot} className='mr-2'/>We are located at Pet City, 304.</p>
+                                <p className='my-1'><FontAwesomeIcon icon={faLocationDot} className='mr-2'/>We are located at Pet City, 404.</p>
                                 <p><FontAwesomeIcon icon={faClock} className='mr-2'/>Open from 9 a.m to 10 p.m on weekdays and from 9 a.m to 2 p.m in weekends.</p>
                             </div>
                         </div>
