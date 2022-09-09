@@ -7,7 +7,7 @@ const ContactUs = () => {
     return (
         <div>
             <div className='mb-10 mx-12' id='contact'>
-                <h1 className='text-3xl lg:text-5xl md:text-4xl font-bold text-center'>CONTACT US</h1>
+                <h1 className='text-3xl lg:text-4xl md:text-4xl font-bold text-center'>CONTACT US</h1>
                 <div className="my-10">
                     <div className="grid items-center justify-center grid-cols-1 lg:grid-cols-2 md:grid-cols-2 gap-6">
                         <div className='lg:order-last md:order-last'>

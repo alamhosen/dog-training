@@ -1,0 +1,20 @@
+[
+    {
+        "_id":1,
+        "name": "High Tech Clinic",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo nostrum asperiores facere voluptatibus labore provident?",
+        "img": "https://i.ibb.co/NpnYhGL/clinic.png"
+    },
+    {
+        "_id":2,
+        "name": "Amazing Support",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo nostrum asperiores facere voluptatibus labore provident?",
+        "img": "https://i.ibb.co/Mgd70cp/support.png"
+    },
+    {
+        "_id":3,
+        "name": "Award Winner",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo nostrum asperiores facere voluptatibus labore provident?",
+        "img": "https://i.ibb.co/mNXw1xc/award.png"
+    }
+]

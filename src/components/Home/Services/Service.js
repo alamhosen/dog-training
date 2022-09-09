@@ -10,7 +10,7 @@ const Service = ({ service }) => {
                     <h2 class="card-title">{name}</h2>
                     <p>{description}</p>
                     <div class="card-actions justify-center">
-                        <button class="btn btn-wide btn-primary">Read More</button>
+                        <button class="btn btn-wide btn-outline btn-primary">Read More</button>
                     </div>
                 </div>
             </div>

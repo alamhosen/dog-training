@@ -3,24 +3,27 @@
         "_id": 1,
         "name": "Linda R. Ayer",
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. ",
-        "img": "https://webredox.net/demo/wp/woof/wp-content/uploads/2018/05/team3.jpg"
+        "img": "https://i.ibb.co/88gFKYB/client-03.jpg"
     },
     {
         "_id": 2,
         "name": "Robert E. Weaver",
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. ",
-        "img": "https://webredox.net/demo/wp/woof/wp-content/uploads/2018/05/team5.jpg"
+        "img": "https://i.ibb.co/n6w28Qz/client-02.jpg"
     },
     {
         "_id": 3,
         "name": "Cynthia K. Jolly ",
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. ",
-        "img": "https://webredox.net/demo/wp/woof/wp-content/uploads/2018/05/team4.jpg"
+        "img": "https://i.ibb.co/y6wYDRJ/client-01.jpg"
     },
     {
         "_id": 4,
         "name": "Daniel M. Sewell",
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. ",
-        "img": "https://webredox.net/demo/wp/woof/wp-content/uploads/2018/05/team2.jpg"
+        "img": "https://i.ibb.co/znvb6RB/client-04.jpg"
     }
 ]
+
+
+

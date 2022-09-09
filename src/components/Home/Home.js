@@ -1,4 +1,5 @@
 import React from 'react';
+import AboutUs from '../AboutUs/AboutUs';
 import ContactUs from '../ContactUs/ContactUs';
 import Footer from '../Shared/Footer';
 import Choose from './ChooseUs/Choose';
@@ -16,6 +17,7 @@ const Home = () => {
             <Slider></Slider>
             <Services></Services>
             <Choose></Choose>
+            <AboutUs></AboutUs>
             <Team></Team>
             <Promotion></Promotion>
             <ImgGallery></ImgGallery>

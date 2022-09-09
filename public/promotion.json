@@ -1,0 +1,30 @@
+[
+    {
+        "_id":1,
+        "name":"Veterinarian",
+        "off": "20",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. Quisque mauris augue, lorem tincidunt condimentum vitae uisque mauris augue, lorem ipsum  tincidunt condimentum vitae.",
+        "img":"https://i.ibb.co/QfWwzj8/veterinarian.png"
+    },
+    {
+        "_id":2,
+        "name":"Quality Pet Food",
+        "off": "35",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. Quisque mauris augue, lorem tincidunt condimentum vitae uisque mauris augue, lorem ipsum  tincidunt condimentum vitae.",
+        "img":"https://i.ibb.co/RbHC6V5/dog-food.png"
+    },
+    {
+        "_id":3,
+        "name":"Grooming",
+        "off": "30",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. Quisque mauris augue, lorem tincidunt condimentum vitae uisque mauris augue, lorem ipsum  tincidunt condimentum vitae.",
+        "img": "https://i.ibb.co/WtDb6fp/grooming.png"
+    },
+    {
+        "_id":4,
+        "name":"Agility",
+        "off": "40",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. Quisque mauris augue, lorem tincidunt condimentum vitae uisque mauris augue, lorem ipsum  tincidunt condimentum vitae.",
+        "img": "https://i.ibb.co/d00Gqy2/agility.png"
+    }
+]
