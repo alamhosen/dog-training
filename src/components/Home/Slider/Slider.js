@@ -3,8 +3,7 @@ import slider_1 from '../../../images/dog-slider-7.jpg'
 
 const Slider = () => {
     return (
-        <div>
-            <div class="carousel w-full">
+            <div class="carousel">
                 <div id="slide1" class="carousel-item relative w-full">
                     <img src={slider_1} class="w-full" />
 
@@ -58,7 +57,6 @@ const Slider = () => {
                     </div>
                 </div>
             </div>
-        </div>
     );
 };
 

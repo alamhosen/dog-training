@@ -13,18 +13,18 @@ import Team from './Team/Team';
 
 const Home = () => {
     return (
-        <div>
+        <div className='w-auto'>
             <Slider></Slider>
-            <Services></Services>
-            <Choose></Choose>
-            <AboutUs></AboutUs>
-            <Team></Team>
-            <Promotion></Promotion>
-            <ImgGallery></ImgGallery>
-            <HappyClients></HappyClients>
-            <ContactUs></ContactUs>
-            <Newsletter></Newsletter>
-            <Footer></Footer>
+                <Services></Services>
+                <Choose></Choose>
+                <AboutUs></AboutUs>
+                <Team></Team>
+                <Promotion></Promotion>
+                <ImgGallery></ImgGallery>
+                <HappyClients></HappyClients>
+                <ContactUs></ContactUs>
+                <Newsletter></Newsletter>
+                <Footer></Footer>
         </div>
     );
 };
