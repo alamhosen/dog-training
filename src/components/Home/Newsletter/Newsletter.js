@@ -16,7 +16,7 @@ const Newsletter = () => {
                         data-aos-duration="1500">We send e-mails once a month, we never send Spam!</p>
                     <div className='flex items-center justify-items-center' data-aos="fade-up"
                         data-aos-duration="1500">
-                        <input type="text" placeholder="Email" class="input w-full max-w-xs rounded-none" />
+                        <input type="text" placeholder="Email" className="input w-full max-w-xs rounded-none" />
                         <button className='btn btn-primary rounded-none'>Subscribe</button>
                     </div>
                 </div>

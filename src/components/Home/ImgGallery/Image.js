@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Image = ({ image, setImgModal }) => {
-    const { _id, img } = image;
+    const { img } = image;
     return (
             <div className="w-full bg-base-100" data-aos="fade-up"
                 data-aos-duration="1500">

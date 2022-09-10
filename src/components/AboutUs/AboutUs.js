@@ -15,15 +15,15 @@ const AboutUs = () => {
                 data-aos-duration="1500">About US</h1>
             {/* message start */}
 
-                <div class="grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 gap-4 my-10">
+                <div className="grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 gap-4 my-10">
                     <div className='lg:order-last md:order-last'>
-                    <img src={about} class="rounded-lg" data-aos="zoom-in"
+                    <img src={about} className="rounded-lg" data-aos="zoom-in"
                         data-aos-duration="1500" />
                     </div>
-                    <div className='pr-2 lg:mt-24'>
-                        <h1 class="text-3xl font-bold" data-aos="fade-up"
+                    <div className='pr-2 lg:mt-16'>
+                        <h1 className="text-3xl font-bold" data-aos="fade-up"
                             data-aos-duration="1500">We take care of your best friend</h1>
-                        <p class="py-6" data-aos="fade-up"
+                        <p className="py-6" data-aos="fade-up"
                             data-aos-duration="1500">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga aperiam earum excepturi voluptatum aspernatur ullam minima delectus doloribus modi sapiente, odit unde placeat aut quos eos magnam voluptates obcaecati vel?</p> <br />
                         <p data-aos="fade-up"
                             data-aos-duration="1500">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo nostrum asperiores facere voluptatibus labore provident?</p>

@@ -34,11 +34,11 @@ const HappyClients = () => {
                         clients.map(client => (<SwiperSlide
                             key={client._id}
                         >
-                            <div class="card w-full lg:w-9/12 md:w-full sm:w-full">
-                                <div class="card-body flex items-center justify-center">
+                            <div className="card w-full lg:w-9/12 md:w-full sm:w-full">
+                                <div className="card-body flex items-center justify-center">
                                     <div className='w-48'><img className='rounded-full w-7' src={client.img} alt={client.name} data-aos="zoom-in"
              data-aos-duration="1500"/></div>
-                                    <h2 class="text-2xl font-bold my-5" data-aos="fade-up"
+                                    <h2 className="text-2xl font-bold my-5" data-aos="fade-up"
                                         data-aos-duration="1500">{client.name}</h2>
                                     <p className='mb-5 text-center' data-aos="fade-up"
                                     data-aos-duration="1500">{client.description}</p>

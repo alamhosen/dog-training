@@ -33,14 +33,14 @@ const Promotion = () => {
                             offers.map(offer => <SwiperSlide
                                 key={offer._id}
                             >
-                                <div class="card bg-blue-300 rounded-none">
+                                <div className="card bg-blue-300 rounded-none">
                                     <div className='grid grid-cols-1 lg:grid-cols-3 md:grid-col-1'>
                                         <div className=''>
                                             <img src={offer.img} alt="" className='h-25' />
                                         </div>
-                                        <div class="card-body mb-4 col-span-2">
+                                        <div className="card-body mb-4 col-span-2">
                                             <div className='flex justify-center items-center py-3'>
-                                                <h2 class="text-center text-2xl lg:text-3xl md:text-3xl mr-3" data-aos="fade-right"
+                                                <h2 className="text-center text-2xl lg:text-3xl md:text-3xl mr-3" data-aos="fade-right"
                                                 data-aos-duration="1500">{offer.name}</h2>
                                                 <button className='btn btn-primary text-2xl' data-aos="fade-left"
                                                 data-aos-duration="1500">{offer.off}% OFF</button>

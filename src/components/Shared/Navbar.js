@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
     const menuItems = <>
         <li><Link to='/'>Home</Link></li>
-        <li><a href='#'>Services</a></li>
-        <li><a href='#'>About</a></li>
-        <li><a href='#'>Adopt</a></li>
-        <li><a href='#'>Gallery</a></li>
-        <li><a href='#'>Contact</a></li>
+        <li><a href='#services'>Services</a></li>
+        <li><a href='#about'>About</a></li>
+        <li><a href='#contact'>Adopt</a></li>
+        <li><a href='#gallery'>Gallery</a></li>
+        <li><a href='#contact'>Contact</a></li>
     </>
         
   

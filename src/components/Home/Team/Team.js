@@ -62,11 +62,11 @@ const Team = () => {
                         {
                             team.map(person => (<SwiperSlide
                                 key={person._id}>
-                                <div class="card w-11/12 bg-base-100 shadow-xl">
-                                    <div class="card-body" data-aos="fade-up"
+                                <div className="card w-11/12 bg-base-100 shadow-xl">
+                                    <div className="card-body" data-aos="fade-up"
                                         data-aos-duration="1500">
                                         <img className='rounded-full' src={person.img} alt={person.name} />
-                                        <h2 class="text-center text-2xl font-bold">{person.name}</h2>
+                                        <h2 className="text-center text-2xl font-bold">{person.name}</h2>
                                         <h4 className='text-blue-500'>{person.title}</h4>
                                         <p>{person.description}</p>
                                         <div className='flex items-center justify-center mb-4'>

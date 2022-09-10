@@ -10,7 +10,7 @@ const Services = () => {
             .then(data => setServices(data))
     }, [])
     return (
-        <div className='my-20 mx-12 w-auto'>
+        <div className='my-20 mx-12 w-auto' id='services'>
                 <h3 className='mb-4 text-xl text-center' data-aos="fade-left"
                     data-aos-duration="1500">WHAT WE OFFER</h3>
                 <h2 className='text-3xl lg:text-4xl md:text-3xl font-bold text-center' data-aos="fade-up"

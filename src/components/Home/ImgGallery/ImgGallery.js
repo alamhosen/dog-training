@@ -12,7 +12,7 @@ const ImgGallery = () => {
             .then(data => setImages(data))
     }, [])
     return (
-        <div className='mx-12 my-20'>
+        <div className='mx-12 my-20' id='gallery'>
             <h2 className='text-center text-3xl lg:text-4xl md:text-3xl font-bold' data-aos="fade-up"
                 data-aos-duration="1500">OUR GALLERY</h2>
             <div className='lg:columns-3 md:columns-2 sm:columns-1 pt-10'>
